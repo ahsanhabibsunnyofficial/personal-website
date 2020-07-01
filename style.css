@@ -1,10 +1,58 @@
 body{
     font-family: 'Pangolin', cursive;
+    margin: 0px;
 }
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
+.name-highlitght{
+    color: rgb(92, 4, 92);
+}
+.myself{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.myself img{
+    width: 100%;
+}
+.header{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
 
 .link-button{
     text-decoration: none;
+    background-image: linear-gradient(red,orange);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 800;
+}
+.bg{
+    background-color: red;
+    background-size: 20px;
+    color: white;
+}
+.biography{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    margin: 0px;
+}
+.bk{
+    color: white;
+    background-color: red;
+    background-size: 20px;
+    margin-left: 46.8%;
+    margin-right: 8.5%;
+    
 }

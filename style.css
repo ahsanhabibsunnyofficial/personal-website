@@ -38,6 +38,23 @@ section{
     color: white;
     font-weight: 800;
 }
+.link-button:hover{
+    color: wheat;
+}
+
+.pgraph:hover{
+  color: black;
+  font-weight: 1000;
+  font-family: 'Poppins', sans-serif;
+}
+
+.pg:hover{
+    color: blue;
+    font-weight: 900;
+  }
+  #pgclint{
+      font-weight: 900;
+  }
 .bg{
     background-color: red;
     background-size: 20px;
@@ -55,6 +72,8 @@ section{
     background-size: 20px;
     margin-left: 46.8%;
     margin-right: 8.5%;
+}
+
 }
 .mywork{
     background-image: url(images/latest-work-bg.png);

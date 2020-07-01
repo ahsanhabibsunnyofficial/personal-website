@@ -43,6 +43,7 @@ section{
     background-size: 20px;
     color: white;
 }
+
 .biography{
     background-image: url(images/biography-bg.png);
     background-repeat: no-repeat;
@@ -54,5 +55,46 @@ section{
     background-size: 20px;
     margin-left: 46.8%;
     margin-right: 8.5%;
-    
+}
+.mywork{
+    background-image: url(images/latest-work-bg.png);
+}
+.mlw{
+    margin: 0;  
+}
+.mylw{
+    margin: 0px;
+    width: 33%;
+    float: left;
+    float: right;
+
+}
+.mylw img{
+    width: 100%;
+}
+
+.clint{
+    text-align: center;
+}
+
+.wcas{
+    background-image: url(images/footer-bg.png);
+}
+
+.admin-mgs{
+    text-align: center;
+    color: white;
+    background-color: crimson;
+    border: solid 20px;
+    border-radius: 60px 40px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+footer p{
+    color: slategray;
+    text-align: center;
+    font-family: monospace;
+    font-weight: 1200;
+    font-size: 18px;
 }
